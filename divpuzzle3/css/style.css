@@ -23,12 +23,12 @@ header .items .item {
 
 main {
   width: 400px;
-  height: 250px;
   display: flex;
   box-sizing: border-box;
 }
 main .left {
   width: 150px;
+  height: 250px;
   background-color: #80bfa8;
 }
 main .right {
@@ -36,7 +36,7 @@ main .right {
   background-color: #8c2727;
 }
 main .right .container {
-  margin: 40px 60px 40px 40px;
+  margin: 40px 60px;
   width: 140px;
 }
 main .contents {
